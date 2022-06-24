@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/06 10:02:55.000.683,=C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/08 13:30:25.000.990,=C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/10 07:38:27.000.826,=C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/24 09:17:38.499,=C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/24 09:26:22.670,C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\FMXSemiTransparentFormExample\ufrmMain.pas=C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/24 09:26:22.670,C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\FMXSemiTransparentFormExample\ufrmMain.fmx=C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2022/06/24 09:26:39.447,C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\FMXSemiTransparentFormExample\FMX_SemiTransForm_Example.dproj=C:\Users\aaboshoff\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

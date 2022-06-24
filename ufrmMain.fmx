@@ -1,0 +1,58 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  BorderStyle = None
+  Caption = 'Form2'
+  ClientHeight = 645
+  ClientWidth = 1028
+  Transparency = True
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object rctnglLeft: TRectangle
+    Align = Left
+    Fill.Color = xFF009AF9
+    Size.Width = 297.000000000000000000
+    Size.Height = 645.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claNull
+    OnMouseDown = rctnglLeftMouseDown
+  end
+  object rctnglClientBG: TRectangle
+    Align = Client
+    Fill.Color = xFF009AF9
+    Opacity = 0.500000000000000000
+    Margins.Left = 3.000000000000000000
+    Size.Width = 728.000000000000000000
+    Size.Height = 645.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = xFF00A7FF
+    Stroke.Thickness = 5.000000000000000000
+  end
+  object lytClient: TLayout
+    Align = Contents
+    Margins.Left = 302.000000000000000000
+    Size.Width = 726.000000000000000000
+    Size.Height = 645.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    object btn1: TButton
+      Position.X = 328.000000000000000000
+      Position.Y = 136.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 65.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'btn1'
+    end
+    object cbb1: TComboBox
+      Position.X = 104.000000000000000000
+      Position.Y = 256.000000000000000000
+      Size.Width = 249.000000000000000000
+      Size.Height = 57.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+    end
+  end
+end
